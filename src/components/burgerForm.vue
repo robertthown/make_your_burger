@@ -103,6 +103,8 @@
                 this.carne = ""
                 this.pao = "";
                 this.opcionais = "";
+
+                // setTimeout(location.reload(), 14000);
             }
         },
         mounted(){

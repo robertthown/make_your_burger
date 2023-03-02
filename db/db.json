@@ -80,28 +80,49 @@
   "burgers": [
     {
       "nome": "Roberto",
-      "carne": "Picanha",
+      "carne": "Alcatra",
       "pao": "3 Queijos",
       "opcionais": [
         "Bacon",
-        "Cheddar",
         "Salame",
-        "Cebola roxa",
-        "Pepino"
+        "Cebola roxa"
       ],
       "status": "Solicitado",
-      "id": 1
+      "id": 8
     },
     {
-      "nome": "Paulo Matias",
-      "carne": "Alcatra",
+      "nome": "Roberto",
+      "carne": "Picanha",
       "pao": "Parmesão e Orégano",
       "opcionais": [
         "Bacon",
         "Salame"
       ],
       "status": "Solicitado",
-      "id": 2
+      "id": 9
+    },
+    {
+      "nome": "zeca",
+      "carne": "Maminha",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Bacon",
+        "Salame",
+        "Cebola roxa",
+        "Pepino",
+        "Tomate",
+        "Cheddar"
+      ],
+      "status": "Solicitado",
+      "id": 10
+    },
+    {
+      "nome": "Jorge",
+      "carne": "Veggie burger",
+      "pao": "Italiano Branco",
+      "opcionais": [],
+      "status": "Solicitado",
+      "id": 11
     }
   ]
 }
